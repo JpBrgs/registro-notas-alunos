@@ -383,4 +383,4 @@ pytest test_new_architecture.py -v
 ### Autores
 - Luis Gustavo Moda <gustavo.moda@gmail.com>
 - Ganriel Baptista <gabrielbaptistams@gmail.com>
-- João Pedro Borges
+- João Pedro Borges <joaopedroborges510@gmail.com>
